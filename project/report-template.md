@@ -36,11 +36,9 @@ Featuring engineering for dataset as getting worse with time
 |hpo|900|Best Quality|true|local|auto|10|4|9|4|4|0.6588|
 
 
-|model|hpo1|hpo2|hpo3|hpo4|score|
-|---|---|---|---|---|---|
-|initial|None|None|None|None|1.79652|
-|add_features|None|None|None|None|1.18505|
-|hpo|GBM Leaves 13-26|GBM Leaves 26-66|GBM Leaves 66-100|GBM Leaves 100-200|0.57482|
+|model|time_limit|presets|auto_stack|scheduler|searcher||num_bag_folds|num_bag_sets|trials|num_stack_levels|score|
+|---|---|---|---|---|---|---|---|---|---|---|
+
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
