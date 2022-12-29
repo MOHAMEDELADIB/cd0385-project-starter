@@ -37,7 +37,7 @@ Featuring engineering for dataset as getting worse with time
 
 
 |model|time_limit|presets|auto_stack|scheduler|searcher||num_bag_folds|num_bag_sets|trials|num_stack_levels|score|
-|---|---|---|---|---|---|---|---|---|---|---|
+
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
