@@ -31,9 +31,7 @@ Featuring engineering for dataset as getting worse with time
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|time_limit|presets|auto_stack|scheduler|searcher||num_bag_folds|num_bag_sets|trials|num_stack_levels|score|
 |--|--|--|--|--|--|--|--|--|--|--|
-|initial|600|Best Quality|default|default|default|default|default|default|default|default|1.84|
-|add_features|600|Best Quality|default|default|default|default|default|default|default|default|0.6588|
-|hpo|900|Best Quality|true|local|auto|10|4|9|4|4|0.6588|
+
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
