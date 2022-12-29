@@ -36,8 +36,8 @@ Featuring engineering for dataset as getting worse with time
 |hpo|900|Best Quality|true|local|auto|10|4|9|4|4|0.6588|
 
 
-|model|hpo1|hpo2|hpo3|hpo4|score|
-|---|---|---|---|---|---|
+|model|hpo1|hpo2|hpo3|hpo4|score|model|hpo1|hpo2|hpo3|hpo4|
+|---|---|---|---|---|---|---|---|---|---|---|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
