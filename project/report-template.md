@@ -33,7 +33,7 @@ Featuring engineering for dataset as getting worse with time
 |---|---|---|---|---|---|---|---|---|---|---|
 |initial|600|Best Quality|default|default|default|default|default|default|default|default|1.84|
 |add_features|600|Best Quality|default|default|default|default|default|default|default|default|0.6588|
-|hpo|900|Best Quality|true|local|auto|10|4|9|4|4|0.6588|
+|hpo|900|Best Quality|true|local|auto|10|4|9|4|0.6588|
 
 
 |model|hpo1|hpo2|hpo3|hpo4|score|
